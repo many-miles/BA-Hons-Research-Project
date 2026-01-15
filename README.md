@@ -2,12 +2,6 @@
 
 **Honours Degree Research Project | BA Psychology (Cum Laude)**
 
-An interactive platform hosting qualitative research examining the psychological factors influencing athletic performance in sports and fitness contexts.
-
-## Live Research
-
-[View Research Publication](https://many-miles.github.io/my-pdf-host/)
-
 ## Research Overview
 
 This year-long qualitative research study explores the complex relationship between motivation and athletic performance. Conducted as the capstone project for my BA Honours in Psychology degree at IIE Varsity College, the research examines how different motivational factors impact performance outcomes in competitive sports and fitness settings.
@@ -18,7 +12,7 @@ This year-long qualitative research study explores the complex relationship betw
 
 - **Type**: Qualitative research study
 - **Duration**: 12 months (2022-2023)
-- **Sample**: 60+ student athletes from Uxi Sport Harlequins International Rugby Institute
+- **Sample**: 10+ student athletes from Uxi Sport Harlequins International Rugby Institute
 - **Approach**: In-depth interviews and observational analysis
 
 ### Data Collection
@@ -41,26 +35,6 @@ This year-long qualitative research study explores the complex relationship betw
 2. What psychological factors contribute most significantly to performance outcomes?
 3. How does motivation change throughout a competitive season?
 4. What role does goal-setting play in maintaining motivation and performance?
-
-## Technical Implementation
-
-This project includes a custom-built PDF hosting platform to make the research findings accessible and interactive.
-
-### Platform Features
-
-- Clean, accessible interface for reading research
-- Responsive design for multiple devices
-- GitHub Pages deployment for permanent availability
-- PDF embedding with browser-native viewing
-- Navigation and search functionality
-
-### Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages hosting
-- PDF.js or native browser PDF rendering
 
 ## Research Context
 
@@ -101,14 +75,6 @@ Detailed findings are available in the full research document accessible via the
 - Academic writing and documentation
 - Critical thinking and analysis
 
-### Technical Skills
-
-- Web development for research dissemination
-- PDF hosting and management
-- GitHub Pages deployment
-- Responsive web design
-- Documentation and presentation
-
 ### Applied Psychology
 
 - Sports psychology principles
@@ -116,19 +82,6 @@ Detailed findings are available in the full research document accessible via the
 - Performance analysis
 - Coaching and mentorship
 - Assessment and evaluation
-
-## Project Structure
-
-```
-my-pdf-host/
-├── index.html          # Main landing page
-├── research.pdf        # Full research document
-├── styles/
-│   └── main.css       # Styling
-├── scripts/
-│   └── app.js         # JavaScript functionality
-└── README.md          # Documentation
-```
 
 ## Access and Citation
 
